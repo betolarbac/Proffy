@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/larbac/127.0.0.1_5500__svOqMrHPn.png" width="50%" >
+  <img src="https://ik.imagekit.io/larbac/127.0.0.1_5500__svOqMrHPn.png" width="100%" >
 </p>
 
 
