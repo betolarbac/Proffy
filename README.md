@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/larbac/127.0.0.1_5500__svOqMrHPn.png" width="75%" >
+  <img src="img src="https://ik.imagekit.io/larbac/logo_LLp1TQmUf.png" width="50%" >
 </p>
 
 
@@ -7,6 +7,17 @@
 
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Preview](#-Preview)
+
+
+
+## 🖥 Preview 
+
+<p align="center">
+  <img src="img src="https://ik.imagekit.io/larbac/127.0.0.1_5500__svOqMrHPn.png" width="700" >
+</p>
+
+---
 
 
 
