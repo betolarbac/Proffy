@@ -32,7 +32,7 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
